@@ -1,2 +1,2 @@
-**Sourcecode is no longer be updated!**
-- Kensho is undergoing a major update, however, this repository will remain the same for you to use!
+View https://github.com/xShadoww/discord-captcha-bot/wiki/Hosting-Captcha-Bot for a guide on hosting!
+- Leave a star on this repository!
